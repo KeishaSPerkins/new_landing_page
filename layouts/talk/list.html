@@ -10,7 +10,7 @@
 			<h1 class="post-title">Talks by Keisha S Perkins</h1>
 		</div>
 		<ol class="post-list">
-			{{ $pag := .Paginate .Pages }} 
+			{{ $pag := .Paginate (where .Pages "Type" "talk")  }} 
 			{{ range .Pages }}
 			<li class="talk-item">
 				<h2>{{ .Params.pagetitle }}</h2>
