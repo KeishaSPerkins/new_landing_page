@@ -1,0 +1,13 @@
+{{ partial "head.html" . }}
+<div id="wrapper">
+	<header class="site-header">
+		<div class="container">
+			<div class="site-title-wrapper">
+				<h1 class="post-title" itemprop="name">{{ .Site.Params.headline }}</h1>
+				<p>{{ .Site.Params.description }}</p>
+			</div>
+			{{ partial "site-nav-home.html" . }} 
+		</div>
+		</header>
+	</div>
+	{{ partial  "footer.html" . }}

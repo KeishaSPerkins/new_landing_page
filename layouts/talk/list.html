@@ -1,0 +1,33 @@
+{{ partial "head.html" . }}
+<header class="site-header">
+	<div class="container">
+		{{ partial "site-nav.html" . }}
+	</div>
+</header>
+<div class="container">
+	<article class="post-container">
+		<div class="post-header">
+			<h1 class="post-title">Talks by Keisha S Perkins</h1>
+		</div>
+		<ol class="post-list">
+			{{ $pag := .Paginate .Pages }} 
+			{{ range .Pages }}
+			<li class="talk-item">
+				<h2>{{ .Params.pagetitle }}</h2>
+				<p> {{ .Description}} </p>
+				<ul>
+					{{ range (where .Pages "Section" "{{ .Title }}") }}
+					<li>
+						<a href="{{ .Permalink }}">{{ .Title }}</a>
+					</li>
+					{{end}}
+				</ul>
+			</li>
+			{{ end }}
+		</ol>
+		<div class="post-navigation">
+			{{ partial "pagination.html" . }}
+		</div>
+	</article>
+</div>
+{{ partial "footer.html" . }}

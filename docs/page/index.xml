@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Keisha S Perkins</title>
+    <link>http://keishasperkins.com/page/</link>
+    <description>Recent content in Pages on Keisha S Perkins</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Keisha S Perkins</copyright>
+    
+	<atom:link href="http://keishasperkins.com/page/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>http://keishasperkins.com/page/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://keishasperkins.com/page/about/</guid>
+      <description>Keisha&amp;nbsp;S&amp;nbsp;Perkins is a self-taught designer and developer from Baton&amp;nbsp;Rouge, Louisiana. She works for the library by day and codes by night.
+She was attracted to the front-end because of its melding of problem solving and visual design, as well as its never-ending list of things to learn.
+Keisha is driven by an eagerness to create, a desire to learn, and a need to teach. Her passions have contributed to her creating curriculum for teaching the youth in her area, of which she is very proud.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://keishasperkins.com/page/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://keishasperkins.com/page/contact/</guid>
+      <description>If you&#39;d like to contact me, feel free to fill out the form.
+Your Name Your Email Message  Submit  </description>
+    </item>
+    
+    <item>
+      <title>Resume for</title>
+      <link>http://keishasperkins.com/page/resume/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://keishasperkins.com/page/resume/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thank You for contacting</title>
+      <link>http://keishasperkins.com/page/thank-you/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://keishasperkins.com/page/thank-you/</guid>
+      <description> Thank you for contacting me! I&#39;ll get back to you soon.  </description>
+    </item>
+    
+  </channel>
+</rss>

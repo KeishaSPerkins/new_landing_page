@@ -1,0 +1,16 @@
+baseURL = "http://keishasperkins.com/"
+languageCode = "en-us"
+title = "Keisha S Perkins"
+baseurl = "https://blog.keishasperkins.com/"
+copyright = "Keisha S Perkins"
+googleAnalytics = "UA-88471731-1"
+publishDir = "docs"
+disqusShortname = "keishasperkinsblog"
+
+[Params]
+	headline = "Keisha S Perkins"
+	description = "is a designer and a developer"
+
+[Author]
+
+    name = "Keisha S Perkins"

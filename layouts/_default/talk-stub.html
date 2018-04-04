@@ -1,0 +1,9 @@
+<div class="talk">
+	<h2 class="talk-title">{{ .Params.type}}: {{ .Title }}</h2>
+	{{ if .Description }}
+            <p class="talk-description">{{ .Description }}</p>
+    {{ end }}
+	
+	<a target="_blank" href="{{ .Permalink }}" class="button button-square ">{{ .Params.type }}</a>
+
+</div>

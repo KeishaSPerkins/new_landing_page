@@ -1,0 +1,25 @@
+{{- if .Sections -}}
+
+{{- range .Sections -}}
+
+{{- range $i, $e := .Pages -}}
+
+<li class="talk-item">
+				<h2>{{ .Params.pagetitle }}</h2>
+				<p> {{ .Description}} </p>
+				
+			</li>
+
+{{- end -}}
+
+{{- end -}}
+
+{{- end -}}
+
+{{- range $i, $e := .Pages -}}
+<li>
+						<a href="{{ .Permalink }}">{{ .Title }}</a>
+					</li>
+{{ .Title }}
+{{- end -}}
+
