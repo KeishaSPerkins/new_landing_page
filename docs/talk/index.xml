@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Talks on Keisha S Perkins</title>
-    <link>https://keishasperkins.github.io/new_landing_page/talk/</link>
+    <link>/talk/</link>
     <description>Recent content in Talks on Keisha S Perkins</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Keisha S Perkins</copyright>
     
-	<atom:link href="https://keishasperkins.github.io/new_landing_page/talk/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

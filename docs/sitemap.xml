@@ -3,115 +3,115 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://keishasperkins.github.io/new_landing_page/talk/activate2018/activate-2018-notes/</loc>
+    <loc>/talk/activate2018/activate-2018-notes/</loc>
     <lastmod>2018-02-24T14:07:29-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://keishasperkins.github.io/new_landing_page/talks/dkd/</loc>
+    <loc>/talks/dkd/</loc>
   </url>
   
   <url>
-    <loc>https://keishasperkins.github.io/new_landing_page/page/about/</loc>
+    <loc>/page/about/</loc>
   </url>
   
   <url>
-    <loc>https://keishasperkins.github.io/new_landing_page/categories/</loc>
+    <loc>/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://keishasperkins.github.io/new_landing_page/tags/coding/</loc>
-    <lastmod>2018-02-24T14:07:29-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://keishasperkins.github.io/new_landing_page/categories/coding/</loc>
+    <loc>/tags/coding/</loc>
     <lastmod>2018-02-24T14:07:29-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://keishasperkins.github.io/new_landing_page/tags/conference/</loc>
+    <loc>/categories/coding/</loc>
     <lastmod>2018-02-24T14:07:29-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://keishasperkins.github.io/new_landing_page/page/contact/</loc>
-  </url>
-  
-  <url>
-    <loc>https://keishasperkins.github.io/new_landing_page/tags/games/</loc>
+    <loc>/tags/conference/</loc>
     <lastmod>2018-02-24T14:07:29-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://keishasperkins.github.io/new_landing_page/tags/html-canvas/</loc>
+    <loc>/page/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/games/</loc>
     <lastmod>2018-02-24T14:07:29-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://keishasperkins.github.io/new_landing_page/tags/html5/</loc>
+    <loc>/tags/html-canvas/</loc>
     <lastmod>2018-02-24T14:07:29-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://keishasperkins.github.io/new_landing_page/tags/javascript/</loc>
+    <loc>/tags/html5/</loc>
     <lastmod>2018-02-24T14:07:29-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://keishasperkins.github.io/new_landing_page/</loc>
+    <loc>/tags/javascript/</loc>
     <lastmod>2018-02-24T14:07:29-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://keishasperkins.github.io/new_landing_page/tags/p5.js/</loc>
+    <loc>/</loc>
     <lastmod>2018-02-24T14:07:29-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://keishasperkins.github.io/new_landing_page/page/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://keishasperkins.github.io/new_landing_page/page/resume/</loc>
-  </url>
-  
-  <url>
-    <loc>https://keishasperkins.github.io/new_landing_page/talk/activate2018/activate-2018-slides/</loc>
-  </url>
-  
-  <url>
-    <loc>https://keishasperkins.github.io/new_landing_page/tags/</loc>
+    <loc>/tags/p5.js/</loc>
     <lastmod>2018-02-24T14:07:29-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://keishasperkins.github.io/new_landing_page/talks/</loc>
+    <loc>/page/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://keishasperkins.github.io/new_landing_page/talk/</loc>
+    <loc>/page/resume/</loc>
   </url>
   
   <url>
-    <loc>https://keishasperkins.github.io/new_landing_page/page/thank-you/</loc>
+    <loc>/talk/activate2018/activate-2018-slides/</loc>
   </url>
   
   <url>
-    <loc>https://keishasperkins.github.io/new_landing_page/talk/activate2018/</loc>
+    <loc>/tags/</loc>
+    <lastmod>2018-02-24T14:07:29-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/talks/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/talk/</loc>
+  </url>
+  
+  <url>
+    <loc>/page/thank-you/</loc>
+  </url>
+  
+  <url>
+    <loc>/talk/activate2018/</loc>
     <lastmod>2018-02-24T14:07:29-05:00</lastmod>
   </url>
   

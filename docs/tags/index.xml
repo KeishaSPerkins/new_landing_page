@@ -2,76 +2,76 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Keisha S Perkins</title>
-    <link>https://keishasperkins.github.io/new_landing_page/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on Keisha S Perkins</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Keisha S Perkins</copyright>
     <lastBuildDate>Sat, 24 Feb 2018 14:07:29 -0500</lastBuildDate>
     
-	<atom:link href="https://keishasperkins.github.io/new_landing_page/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Coding</title>
-      <link>https://keishasperkins.github.io/new_landing_page/tags/coding/</link>
+      <link>/tags/coding/</link>
       <pubDate>Sat, 24 Feb 2018 14:07:29 -0500</pubDate>
       
-      <guid>https://keishasperkins.github.io/new_landing_page/tags/coding/</guid>
+      <guid>/tags/coding/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Conference</title>
-      <link>https://keishasperkins.github.io/new_landing_page/tags/conference/</link>
+      <link>/tags/conference/</link>
       <pubDate>Sat, 24 Feb 2018 14:07:29 -0500</pubDate>
       
-      <guid>https://keishasperkins.github.io/new_landing_page/tags/conference/</guid>
+      <guid>/tags/conference/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Games</title>
-      <link>https://keishasperkins.github.io/new_landing_page/tags/games/</link>
+      <link>/tags/games/</link>
       <pubDate>Sat, 24 Feb 2018 14:07:29 -0500</pubDate>
       
-      <guid>https://keishasperkins.github.io/new_landing_page/tags/games/</guid>
+      <guid>/tags/games/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Html Canvas</title>
-      <link>https://keishasperkins.github.io/new_landing_page/tags/html-canvas/</link>
+      <link>/tags/html-canvas/</link>
       <pubDate>Sat, 24 Feb 2018 14:07:29 -0500</pubDate>
       
-      <guid>https://keishasperkins.github.io/new_landing_page/tags/html-canvas/</guid>
+      <guid>/tags/html-canvas/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Html5</title>
-      <link>https://keishasperkins.github.io/new_landing_page/tags/html5/</link>
+      <link>/tags/html5/</link>
       <pubDate>Sat, 24 Feb 2018 14:07:29 -0500</pubDate>
       
-      <guid>https://keishasperkins.github.io/new_landing_page/tags/html5/</guid>
+      <guid>/tags/html5/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Javascript</title>
-      <link>https://keishasperkins.github.io/new_landing_page/tags/javascript/</link>
+      <link>/tags/javascript/</link>
       <pubDate>Sat, 24 Feb 2018 14:07:29 -0500</pubDate>
       
-      <guid>https://keishasperkins.github.io/new_landing_page/tags/javascript/</guid>
+      <guid>/tags/javascript/</guid>
       <description></description>
     </item>
     
     <item>
       <title>P5.js</title>
-      <link>https://keishasperkins.github.io/new_landing_page/tags/p5.js/</link>
+      <link>/tags/p5.js/</link>
       <pubDate>Sat, 24 Feb 2018 14:07:29 -0500</pubDate>
       
-      <guid>https://keishasperkins.github.io/new_landing_page/tags/p5.js/</guid>
+      <guid>/tags/p5.js/</guid>
       <description></description>
     </item>
     
