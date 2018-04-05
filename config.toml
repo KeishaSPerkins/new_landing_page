@@ -1,7 +1,6 @@
-baseURL = ""
+baseURL = "https://keishasperkins.github.io/new_landing_page"
 languageCode = "en-us"
 title = "Keisha S Perkins"
-baseurl = "https://blog.keishasperkins.com/"
 copyright = "Keisha S Perkins"
 googleAnalytics = "UA-88471731-1"
 publishDir = "docs"

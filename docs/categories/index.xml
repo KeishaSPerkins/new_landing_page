@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Keisha S Perkins</title>
-    <link>/categories/</link>
+    <link>https://keishasperkins.github.io/new_landing_page/categories/</link>
     <description>Recent content in Categories on Keisha S Perkins</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Keisha S Perkins</copyright>
     
-	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://keishasperkins.github.io/new_landing_page/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Coding</title>
-      <link>/categories/coding/</link>
+      <link>https://keishasperkins.github.io/new_landing_page/categories/coding/</link>
       <pubDate>Sat, 24 Feb 2018 14:07:29 -0500</pubDate>
       
-      <guid>/categories/coding/</guid>
+      <guid>https://keishasperkins.github.io/new_landing_page/categories/coding/</guid>
       <description></description>
     </item>
     
