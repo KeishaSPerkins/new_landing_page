@@ -156,6 +156,26 @@ table tr {
 	margin-bottom:40px;
 }
 
+.list-of-conference-assets{
+	display: flex;
+	padding: 0;
+	list-style: none;
+	margin: 0;
+}
+.conference{
+	padding: 10px;
+	border-bottom: 1px dotted black;
+}
+.conference:hover{
+	background: #fcf5f5;
+	padding-left: 15px;
+}
+.conference:hover h2{
+	color: #d06;
+}
+.conference-asset{
+	padding: 0;
+}
 .hidden {
 	display:none;
 	text-indent:-9999px;
@@ -205,8 +225,9 @@ table tr {
 	float:left;
 	font-size:17px;
 	border-radius: 0;
-	margin:0 0 0 10px;
+	margin:0 10px 0 0;
 	padding:3px 8px 4px;
+}
 }
 .button.button-square:hover{
 	padding: 3px 8px 4px;

@@ -1,8 +1,8 @@
 ---
-title: "Notes: Using JavaScript Libraries for Game Development"
+title: "Using JavaScript Libraries for Game Development"
 date: 2018-02-24T14:07:29-05:00
 draft: false
-type: notes
+what: notes
 tags:
 - JavaScript
 - coding

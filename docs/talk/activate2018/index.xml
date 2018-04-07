@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>activate2018 on Keisha S Perkins</title>
+    <title>Activate Conference 2018 on Keisha S Perkins</title>
     <link>https://keishasperkins.github.io/new_landing_page/talk/activate2018/</link>
-    <description>Recent content in activate2018 on Keisha S Perkins</description>
+    <description>Recent content in Activate Conference 2018 on Keisha S Perkins</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Keisha S Perkins</copyright>
@@ -13,7 +13,7 @@
     
     
     <item>
-      <title>Notes: Using JavaScript Libraries for Game Development</title>
+      <title>Using JavaScript Libraries for Game Development</title>
       <link>https://keishasperkins.github.io/new_landing_page/talk/activate2018/activate-2018-notes/</link>
       <pubDate>Sat, 24 Feb 2018 14:07:29 -0500</pubDate>
       
@@ -23,7 +23,7 @@ Why JavaScript? JavaScript is everywhere. If you use the internet, you’ve almo
     </item>
     
     <item>
-      <title>Slides</title>
+      <title>An Introduction to P5.js</title>
       <link>https://keishasperkins.github.io/new_landing_page/talk/activate2018/activate-2018-slides/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
