@@ -1,5 +1,5 @@
 ---
-title: "Thank You for contacting"
+title: "Thank You!"
 ---
 	
 

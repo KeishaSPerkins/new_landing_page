@@ -8,7 +8,7 @@ html,body {
 body {
 	background:#fefefe;
 	color:#424242;
-	font-family:"Open Sans", arial, sans-serif;
+	font-family: 'Montserrat', arial, sans-serif;
 	font-size:18px;
 }
 h1,h2,h3,h4,h5,h6 {
@@ -661,6 +661,45 @@ ul li:last-of-type,ol li:last-of-type,.post-content:last-child {
 }
 .talk:hover {
 	background: #fcf5f5;
+}
+
+.resume-section-heading{
+	font-weight: 600;
+	text-align: center;
+	margin: 2rem;
+}
+.resume-section-heading:not(:first-child){
+	margin-top: 5rem;
+}
+.job-title{
+	font-weight: 500;
+	margin-bottom: 1rem;
+	color: #d06;
+}
+.job-location{
+	color: #555;
+}
+.job-location, .job-date{
+	font-weight: 400;
+}
+
+.job-date{
+	color: gray;
+	font-style: italic;
+	margin: 0;
+	font-size: 1rem;
+}
+.skills-list{
+	padding: 0;
+	list-style: 0;
+}
+
+.skill{
+	display:inline-block;
+	background: #d06;
+	padding: 5px 8px;
+	margin: 5px;
+	color: white;
 }
 
 /*---------------------------
