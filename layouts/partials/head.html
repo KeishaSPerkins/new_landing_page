@@ -2,6 +2,7 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="robots" content="noindex">
 
   <link href="https://fonts.googleapis.com/css?family=Montserrat:300,400,500,600,700" rel="stylesheet">
@@ -10,7 +11,12 @@
   <link rel="stylesheet" type="text/css" href="{{ .Site.BaseURL }}/css/style.css">
 {{ partial "favicon.html" . }}
 {{ partial "analytics.html" . }}
+	{{ if isset .Params "title"}}
   <title>{{ .Title }} | {{ .Site.Title }}</title>
+  {{end }}
+  {{ if not (isset .Params "title")}}
+  <title>{{ .Site.Title }}</title>
+  {{end }}
   <meta name="viewport" content="width=device-width" />
 	<title>{{ .Title }}</title>
 </head>

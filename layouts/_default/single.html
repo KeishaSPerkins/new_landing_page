@@ -1,3 +1,5 @@
+
+
 {{ partial "head.html" . }}
 <header class="site-header">
 	
@@ -7,9 +9,14 @@
 </header>
 <div class="container">
     <article class="post-container">
+
+
         {{ partial "page-header.html" . }}
         {{ partial "page-content.html" . }}
 
     </article>
+    {{ template "_internal/disqus.html" . }}
+
 </div>
+
 {{ partial "footer.html" . }}

@@ -353,6 +353,8 @@ Here is a list of resources that may help you in creating games.
 *   [CodePen](https://codepen.io)
 *   [Free Sound](http://freesound.org)
 
-If you like that robot game. You can see how it's built on [its accompanying tutorial site](https://la-wit.github.io/build-an-infinite-runner). And you'd like to jump right into making with p5.js, you can fork this pen start right away. The pen already has p5.js, p5.play, p5.sound, and another extender library, [p5.dom](https://p5js.org/reference/#/libraries/p5.dom) linked.
+The [slides for this talk](../activate-2018-slides) are also available. If you like that robot game. You can see how it's built on [its accompanying tutorial site](https://la-wit.github.io/build-an-infinite-runner). 
+
+If you'd like to jump right into making with p5.js, you can fork this pen start right away. The pen already has p5.js, p5.play, p5.sound, and another extender library, [p5.dom](https://p5js.org/reference/#/libraries/p5.dom) linked.
 
 Have fun!

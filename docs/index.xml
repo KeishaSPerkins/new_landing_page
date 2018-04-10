@@ -14,30 +14,20 @@
     
     <item>
       <title>Using JavaScript Libraries for Game Development</title>
-      <link>https://keishasperkins.github.io/new_landing_page/talk/activate2018/activate-2018-notes/</link>
+      <link>https://keishasperkins.github.io/new_landing_page/talks/activate2018/activate-2018-notes/</link>
       <pubDate>Sat, 24 Feb 2018 14:07:29 -0500</pubDate>
       
-      <guid>https://keishasperkins.github.io/new_landing_page/talk/activate2018/activate-2018-notes/</guid>
-      <description>This talk is about using JavaScript to create games on the HTML5 canvas. Though you won’t create the next Halo, you’ll learn so much about JavaScript and programming as a whole when you create games with it. In this talk, I’ll introduce you to a library that’s perfect for beginners and “non-coders” alike called p5.js.
-Why JavaScript? JavaScript is everywhere. If you use the internet, you’ve almost certainly encountered JavaScript.</description>
-    </item>
-    
-    <item>
-      <title>Using JavaScript Libraries for Game Development</title>
-      <link>https://keishasperkins.github.io/new_landing_page/talk/itgirls/activate-2018-notes/</link>
-      <pubDate>Sat, 24 Feb 2018 14:07:29 -0500</pubDate>
-      
-      <guid>https://keishasperkins.github.io/new_landing_page/talk/itgirls/activate-2018-notes/</guid>
+      <guid>https://keishasperkins.github.io/new_landing_page/talks/activate2018/activate-2018-notes/</guid>
       <description>This talk is about using JavaScript to create games on the HTML5 canvas. Though you won’t create the next Halo, you’ll learn so much about JavaScript and programming as a whole when you create games with it. In this talk, I’ll introduce you to a library that’s perfect for beginners and “non-coders” alike called p5.js.
 Why JavaScript? JavaScript is everywhere. If you use the internet, you’ve almost certainly encountered JavaScript.</description>
     </item>
     
     <item>
       <title></title>
-      <link>https://keishasperkins.github.io/new_landing_page/talk/itgirls/_booklet/</link>
+      <link>https://keishasperkins.github.io/new_landing_page/talks/itgirls/booklet/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://keishasperkins.github.io/new_landing_page/talk/itgirls/_booklet/</guid>
+      <guid>https://keishasperkins.github.io/new_landing_page/talks/itgirls/booklet/</guid>
       <description></description>
     </item>
     
@@ -54,20 +44,12 @@ Keisha is driven by an eagerness to create, a desire to learn, and a need to tea
     
     <item>
       <title>An Introduction to P5.js</title>
-      <link>https://keishasperkins.github.io/new_landing_page/talk/activate2018/activate-2018-slides/</link>
+      <link>https://keishasperkins.github.io/new_landing_page/talks/activate2018/activate-2018-slides/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://keishasperkins.github.io/new_landing_page/talk/activate2018/activate-2018-slides/</guid>
-      <description>Activate 2018: Slides/*! normalize.css v2.1.0 | MIT License | git.io/normalize */@import url(&#34;https://s3.amazonaws.com/static.slid.es/fonts/montserrat/montserrat.css&#34;);@import url(&#34;https://s3.amazonaws.com/static.slid.es/fonts/opensans/opensans.css&#34;);@import url(&#34;https://s3.amazonaws.com/static.slid.es/fonts/lato/lato.css&#34;);@import url(&#34;https://s3.amazonaws.com/static.slid.es/fonts/asul/asul.css&#34;);@import url(&#34;https://s3.amazonaws.com/static.slid.es/fonts/josefinsans/josefinsans.css&#34;);@import url(&#34;https://s3.amazonaws.com/static.slid.es/fonts/league/league_gothic.css&#34;);@import url(&#34;https://s3.amazonaws.com/static.slid.es/fonts/merriweathersans/merriweathersans.css&#34;);@import url(&#34;https://s3.amazonaws.com/static.slid.es/fonts/overpass/overpass.css&#34;);@import url(&#34;https://s3.amazonaws.com/static.slid.es/fonts/overpass2/overpass2.css&#34;);@import url(&#34;https://s3.amazonaws.com/static.slid.es/fonts/quicksand/quicksand.css&#34;);@import url(&#34;https://s3.amazonaws.com/static.slid.es/fonts/cabinsketch/cabinsketch.css&#34;);@import url(&#34;https://s3.amazonaws.com/static.slid.es/fonts/newscycle/newscycle.css&#34;);@import url(&#34;https://s3.amazonaws.com/static.slid.es/fonts/oxygen/oxygen.css&#34;);article,aside,details,figcaption,figure,footer,header,hgroup,main,nav,section,summary{display:block}audio,canvas,video{display:inline-block}audio:not([controls]){display:none;height:0}[hidden]{display:none}html{font-family:sans-serif;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%}body{margin:0}a:focus{outline:thin dotted}a:active,a:hover{outline:0}h1{font-size:2em;margin:0.67em 0}abbr[title]{border-bottom:1px dotted}b,strong{font-weight:bold}dfn{font-style:italic}hr{box-sizing:content-box;height:0}mark{background:#ff0;color:#000}code,kbd,pre,samp{font-family:monospace, serif;font-size:1em}pre{white-space:pre-wrap}q{quotes:&#34;\201C&#34; &#34;\201D&#34; &#34;\2018&#34; &#34;\2019&#34;}small{font-size:80%}sub,sup{font-size:75%;line-height:0;position:relative;vertical-align:baseline}sup{top:-0.5em}sub{bottom:-0.25em}img{border:0}svg:not(:root){overflow:hidden}figure{margin:0}fieldset{border:1px solid #c0c0c0;margin:0 2px;padding:0.35em 0.625em 0.75em}legend{border:0;padding:0}button,input,select,textarea{font-family:inherit;font-size:100%;margin:0}button,input{line-height:normal}button,select{text-transform:none}button,html input[type=&#34;button&#34;],input[type=&#34;reset&#34;],input[type=&#34;submit&#34;]{-webkit-appearance:button;cursor:pointer}button[disabled],html input[disabled]{cursor:default}input[type=&#34;checkbox&#34;],input[type=&#34;radio&#34;]{box-sizing:border-box;padding:0}input[type=&#34;search&#34;]{-webkit-appearance:textfield;box-sizing:content-box}input[type=&#34;search&#34;]::-webkit-search-cancel-button,input[type=&#34;search&#34;]::-webkit-search-decoration{-webkit-appearance:none}button::-moz-focus-inner,input::-moz-focus-inner{border:0;padding:0}textarea{overflow:auto;vertical-align:top}table{border-collapse:collapse;border-spacing:0}.theme-font-asul .themed,.theme-font-asul .reveal{font-family:&#34;Asul&#34;, sans-serif;font-size:30px}.theme-font-asul .themed section,.theme-font-asul .reveal section{line-height:1.3}.theme-font-asul .themed h1,.theme-font-asul .themed h2,.theme-font-asul .themed h3,.theme-font-asul .themed h4,.theme-font-asul .themed h5,.theme-font-asul .themed h6,.theme-font-asul .reveal h1,.theme-font-asul .reveal h2,.theme-font-asul .reveal h3,.theme-font-asul .reveal h4,.theme-font-asul .reveal h5,.theme-font-asul .reveal h6{font-family:&#34;</description>
-    </item>
-    
-    <item>
-      <title>An Introduction to P5.js</title>
-      <link>https://keishasperkins.github.io/new_landing_page/talk/itgirls/activate-2018-slides/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://keishasperkins.github.io/new_landing_page/talk/itgirls/activate-2018-slides/</guid>
-      <description>Activate 2018: Slides/*! normalize.css v2.1.0 | MIT License | git.io/normalize */@import url(&#34;https://s3.amazonaws.com/static.slid.es/fonts/montserrat/montserrat.css&#34;);@import url(&#34;https://s3.amazonaws.com/static.slid.es/fonts/opensans/opensans.css&#34;);@import url(&#34;https://s3.amazonaws.com/static.slid.es/fonts/lato/lato.css&#34;);@import url(&#34;https://s3.amazonaws.com/static.slid.es/fonts/asul/asul.css&#34;);@import url(&#34;https://s3.amazonaws.com/static.slid.es/fonts/josefinsans/josefinsans.css&#34;);@import url(&#34;https://s3.amazonaws.com/static.slid.es/fonts/league/league_gothic.css&#34;);@import url(&#34;https://s3.amazonaws.com/static.slid.es/fonts/merriweathersans/merriweathersans.css&#34;);@import url(&#34;https://s3.amazonaws.com/static.slid.es/fonts/overpass/overpass.css&#34;);@import url(&#34;https://s3.amazonaws.com/static.slid.es/fonts/overpass2/overpass2.css&#34;);@import url(&#34;https://s3.amazonaws.com/static.slid.es/fonts/quicksand/quicksand.css&#34;);@import url(&#34;https://s3.amazonaws.com/static.slid.es/fonts/cabinsketch/cabinsketch.css&#34;);@import url(&#34;https://s3.amazonaws.com/static.slid.es/fonts/newscycle/newscycle.css&#34;);@import url(&#34;https://s3.amazonaws.com/static.slid.es/fonts/oxygen/oxygen.css&#34;);article,aside,details,figcaption,figure,footer,header,hgroup,main,nav,section,summary{display:block}audio,canvas,video{display:inline-block}audio:not([controls]){display:none;height:0}[hidden]{display:none}html{font-family:sans-serif;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%}body{margin:0}a:focus{outline:thin dotted}a:active,a:hover{outline:0}h1{font-size:2em;margin:0.67em 0}abbr[title]{border-bottom:1px dotted}b,strong{font-weight:bold}dfn{font-style:italic}hr{box-sizing:content-box;height:0}mark{background:#ff0;color:#000}code,kbd,pre,samp{font-family:monospace, serif;font-size:1em}pre{white-space:pre-wrap}q{quotes:&#34;\201C&#34; &#34;\201D&#34; &#34;\2018&#34; &#34;\2019&#34;}small{font-size:80%}sub,sup{font-size:75%;line-height:0;position:relative;vertical-align:baseline}sup{top:-0.5em}sub{bottom:-0.25em}img{border:0}svg:not(:root){overflow:hidden}figure{margin:0}fieldset{border:1px solid #c0c0c0;margin:0 2px;padding:0.35em 0.625em 0.75em}legend{border:0;padding:0}button,input,select,textarea{font-family:inherit;font-size:100%;margin:0}button,input{line-height:normal}button,select{text-transform:none}button,html input[type=&#34;button&#34;],input[type=&#34;reset&#34;],input[type=&#34;submit&#34;]{-webkit-appearance:button;cursor:pointer}button[disabled],html input[disabled]{cursor:default}input[type=&#34;checkbox&#34;],input[type=&#34;radio&#34;]{box-sizing:border-box;padding:0}input[type=&#34;search&#34;]{-webkit-appearance:textfield;box-sizing:content-box}input[type=&#34;search&#34;]::-webkit-search-cancel-button,input[type=&#34;search&#34;]::-webkit-search-decoration{-webkit-appearance:none}button::-moz-focus-inner,input::-moz-focus-inner{border:0;padding:0}textarea{overflow:auto;vertical-align:top}table{border-collapse:collapse;border-spacing:0}.theme-font-asul .themed,.theme-font-asul .reveal{font-family:&#34;Asul&#34;, sans-serif;font-size:30px}.theme-font-asul .themed section,.theme-font-asul .reveal section{line-height:1.3}.theme-font-asul .themed h1,.theme-font-asul .themed h2,.theme-font-asul .themed h3,.theme-font-asul .themed h4,.theme-font-asul .themed h5,.theme-font-asul .themed h6,.theme-font-asul .reveal h1,.theme-font-asul .reveal h2,.theme-font-asul .reveal h3,.theme-font-asul .reveal h4,.theme-font-asul .reveal h5,.theme-font-asul .reveal h6{font-family:&#34;</description>
+      <guid>https://keishasperkins.github.io/new_landing_page/talks/activate2018/activate-2018-slides/</guid>
+      <description>Here are the slides to a talk I did in February of 2018 called &#34;Using JavaScript Libraries for Game Development: An Introduction to P5.js&#34;. The talk is meant to show how the p5.js library can be used as a tool for learning JavaScript while having fun making games. The notes to this talk are also available.
+ </description>
     </item>
     
     <item>
@@ -81,16 +63,16 @@ Your Name Your Email Message  Submit  </description>
     </item>
     
     <item>
-      <title>Resume for</title>
+      <title>Resume</title>
       <link>https://keishasperkins.github.io/new_landing_page/page/resume/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://keishasperkins.github.io/new_landing_page/page/resume/</guid>
-      <description></description>
+      <description>Professional Experience Coding Instructor The Futures Fund 2017 to Present Instructs weekly class of 10 to 15 middle school students in front-end development. Devised curriculum that is currently being used to teach all Coding Level One students in the program. Designs exercises and activities to better demonstrate techniques involved in HTML, CSS, and JavaScript development.   Freelance Designer and Developer KayEssPeaDesign 2015 to Present Generates digital and print designs to suit clients&amp;rsquo; needs and requirements.</description>
     </item>
     
     <item>
-      <title>Thank You for contacting</title>
+      <title>Thank You!</title>
       <link>https://keishasperkins.github.io/new_landing_page/page/thank-you/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
