@@ -2,6 +2,7 @@
 title: "Resume"
 beforetitle: ""
 aftertitle: "for Keisha S Perkins"
+what: resume
 ---
 
 <a href="resume.pdf" download class="download-link button button-square">

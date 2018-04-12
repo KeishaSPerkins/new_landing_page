@@ -1,5 +1,6 @@
 ---
 title: "Contact"
+what: contact
 ---
 
 <p>If you'd like to contact me, feel free to fill out the form.</p>
@@ -12,7 +13,7 @@ title: "Contact"
 	<label for="message">Message</label>
 	<textarea name="message" id="message" cols="30" rows="10"></textarea>
 	<input type="hidden" name="_next" value="../page/thank-you" />
-	<input type="hidden" name="_subject" value="New Form Submission from Your Blog!" />
+	<input type="hidden" name="_subject" value="New Form Submission from Your Website!" />
 	<input type="text" name="_gotcha" style="display:none" />
 	<button class="button submit button-square" type="submit" form="contact-form" value="Submit">Submit</button>
 </form>

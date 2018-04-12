@@ -1,8 +1,9 @@
 ---
 title: "About"
+what: about
 ---
 
-Keisha&nbsp;S&nbsp;Perkins is a self-taught designer and developer from Baton&nbsp;Rouge, Louisiana. She works for the library by day and codes by night. 
+Keisha&nbsp;S Perkins is a self-taught designer and developer from Baton&nbsp;Rouge, Louisiana. She works for the library by day and codes by night. 
 
 She was attracted to the front-end because of its melding of problem solving and visual design, as well as its never-ending list of things to learn.
 
