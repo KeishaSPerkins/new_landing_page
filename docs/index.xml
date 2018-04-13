@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Keisha S Perkins</title>
+    <link>http://keishasperkins.com/</link>
+    <description>Recent content on Keisha S Perkins</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Keisha S Perkins</copyright>
+    <lastBuildDate>Sat, 24 Feb 2018 14:07:29 -0500</lastBuildDate>
+    
+	<atom:link href="http://keishasperkins.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Using JavaScript Libraries for Game Development</title>
+      <link>http://keishasperkins.com/talks/activate2018/activate-2018-notes/</link>
+      <pubDate>Sat, 24 Feb 2018 14:07:29 -0500</pubDate>
+      
+      <guid>http://keishasperkins.com/talks/activate2018/activate-2018-notes/</guid>
+      <description>This talk is about using JavaScript to create games on the HTML5 canvas. Though you won’t create the next Halo, you’ll learn so much about JavaScript and programming as a whole when you create games with it. In this talk, I’ll introduce you to a library that’s perfect for beginners and “non-coders” alike called p5.js.
+Why JavaScript? JavaScript is everywhere. If you use the internet, you’ve almost certainly encountered JavaScript.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://keishasperkins.com/talks/itgirls/booklet/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://keishasperkins.com/talks/itgirls/booklet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Introduction to P5.js</title>
+      <link>http://keishasperkins.com/talks/activate2018/activate-2018-slides/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://keishasperkins.com/talks/activate2018/activate-2018-slides/</guid>
+      <description>Here are the slides to a talk I did in February of 2018 called &#34;Using JavaScript Libraries for Game Development: An Introduction to P5.js&#34;. The talk is meant to show how the p5.js library can be used as a tool for learning JavaScript while having fun making games. The notes to this talk are also available.
+ </description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://keishasperkins.com/page/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://keishasperkins.com/page/contact/</guid>
+      <description>If you&#39;d like to contact me, feel free to fill out the form.
+Your Name Your Email Message  Submit  </description>
+    </item>
+    
+    <item>
+      <title>Resume</title>
+      <link>http://keishasperkins.com/page/resume/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://keishasperkins.com/page/resume/</guid>
+      <description>Professional Experience Coding Instructor The Futures Fund 2017 to Present Instructs weekly class of 10 to 15 middle school students in front-end development. Devised curriculum that is currently being used to teach all Coding Level One students in the program. Designs exercises and activities to better demonstrate techniques involved in HTML, CSS, and JavaScript development.   Freelance Designer and Developer KayEssPeaDesign 2015 to Present Generates digital and print designs to suit clients&amp;rsquo; needs and requirements.</description>
+    </item>
+    
+    <item>
+      <title>Thank You!</title>
+      <link>http://keishasperkins.com/page/thank-you/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://keishasperkins.com/page/thank-you/</guid>
+      <description> Thank you for contacting me! I&#39;ll get back to you soon.  </description>
+    </item>
+    
+  </channel>
+</rss>
