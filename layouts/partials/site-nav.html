@@ -1,13 +1,13 @@
 <ul class="site-nav">
-	<li class="site-nav-item"><a href="{{ .Site.BaseURL }}">KSP Home</a></li>
+	<li class="site-nav-item"><a href='{{ "/" | absURL }}'>KSP Home</a></li>
     <li class="site-nav-item"><a href="https://blog.keishasperkins.com">Blog</a></li>
-    <li class="site-nav-item"><a href='{{ .Site.BaseURL }}page/resume/'>Resume</a></li>
+    <li class="site-nav-item"><a href='{{ "/page/Resume" | absURL }}'>Resume</a></li>
     <li class="site-nav-item"><a target="_blank" href="http://codepen.io/keishasperkins">CodePen</a></li>
     <li class="site-nav-item"><a target="_blank" href="http://github.com/keishasperkins">Github</a></li>
-    <li class="site-nav-item"><a href="{{ .Site.BaseURL }}talks/">Talks</a></li>
+    <li class="site-nav-item"><a href='{{ "/page/talks" | absURL }}'>Talks</a></li>
     
-    <li class="site-nav-item"><a href="{{ .Site.BaseURL }}page/about/">About</a></li>
-    <li class="site-nav-item"><a href='{{ .Site.BaseURL }}page/contact/'>Contact</a></li>
+    <li class="site-nav-item"><a href='{{ "/page/about" | absURL }}'>About</a></li>
+    <li class="site-nav-item"><a href='{{ "/page/contact" | absURL }}'>Contact</a></li>
     <!-- <li class="site-nav-item"><a target="_blank" href="http://twitter.com/keishasperkins">Twitter</a></li> -->
     <!--         <li class="site-nav-item"><a target="_blank" href="http://linkedin.com/in/keishasperkins">Linkedin</a></li> -->
 </ul>
