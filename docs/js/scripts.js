@@ -1,1 +1,0 @@
-console.log("Hello! I'm not using any custom scripts yet. But thanks for checking me out!")

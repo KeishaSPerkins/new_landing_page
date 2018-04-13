@@ -13,12 +13,12 @@
 
         {{ partial "page-header.html" . }}
         {{ partial "page-content.html" . }}
-
-    </article>
-    {{ if not .Params.nodisqus }}
+{{ if not .Params.nodisqus }}
     <br><br><hr>
     {{ template "_internal/disqus.html" . }}
 {{ end }}
+    </article>
+    
 </div>
 
 {{ partial "footer.html" . }}
