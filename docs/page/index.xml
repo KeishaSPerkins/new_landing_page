@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on Keisha S Perkins</title>
-    <link>http://keishasperkins.com/page/</link>
+    <link>https://keishasperkins.com/page/</link>
     <description>Recent content in Pages on Keisha S Perkins</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Keisha S Perkins</copyright>
     
-	<atom:link href="http://keishasperkins.com/page/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://keishasperkins.com/page/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Contact</title>
-      <link>http://keishasperkins.com/page/contact/</link>
+      <link>https://keishasperkins.com/page/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://keishasperkins.com/page/contact/</guid>
+      <guid>https://keishasperkins.com/page/contact/</guid>
       <description>If you&#39;d like to contact me, feel free to fill out the form.
 Your Name Your Email Message  Submit  </description>
     </item>
     
     <item>
       <title>Resume</title>
-      <link>http://keishasperkins.com/page/resume/</link>
+      <link>https://keishasperkins.com/page/resume/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://keishasperkins.com/page/resume/</guid>
+      <guid>https://keishasperkins.com/page/resume/</guid>
       <description>Professional Experience Coding Instructor The Futures Fund 2017 to Present Instructs weekly class of 10 to 15 middle school students in front-end development. Devised curriculum that is currently being used to teach all Coding Level One students in the program. Designs exercises and activities to better demonstrate techniques involved in HTML, CSS, and JavaScript development.   Freelance Designer and Developer KayEssPeaDesign 2015 to Present Generates digital and print designs to suit clients&amp;rsquo; needs and requirements.</description>
     </item>
     
     <item>
       <title>Thank You!</title>
-      <link>http://keishasperkins.com/page/thank-you/</link>
+      <link>https://keishasperkins.com/page/thank-you/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://keishasperkins.com/page/thank-you/</guid>
+      <guid>https://keishasperkins.com/page/thank-you/</guid>
       <description> Thank you for contacting me! I&#39;ll get back to you soon.  </description>
     </item>
     

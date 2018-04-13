@@ -3,111 +3,111 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://keishasperkins.com/talks/activate2018/activate-2018-notes/</loc>
+    <loc>https://keishasperkins.com/talks/activate2018/activate-2018-notes/</loc>
     <lastmod>2018-02-24T14:07:29-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://keishasperkins.com/talks/itgirls/booklet/</loc>
+    <loc>https://keishasperkins.com/talks/itgirls/booklet/</loc>
   </url>
   
   <url>
-    <loc>http://keishasperkins.com/talks/activate2018/</loc>
+    <loc>https://keishasperkins.com/talks/activate2018/</loc>
     <lastmod>2018-02-24T14:07:29-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://keishasperkins.com/talks/activate2018/activate-2018-slides/</loc>
+    <loc>https://keishasperkins.com/talks/activate2018/activate-2018-slides/</loc>
   </url>
   
   <url>
-    <loc>http://keishasperkins.com/categories/</loc>
+    <loc>https://keishasperkins.com/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://keishasperkins.com/categories/coding/</loc>
-    <lastmod>2018-02-24T14:07:29-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://keishasperkins.com/tags/coding/</loc>
+    <loc>https://keishasperkins.com/tags/coding/</loc>
     <lastmod>2018-02-24T14:07:29-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://keishasperkins.com/tags/conference/</loc>
+    <loc>https://keishasperkins.com/categories/coding/</loc>
     <lastmod>2018-02-24T14:07:29-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://keishasperkins.com/page/contact/</loc>
-  </url>
-  
-  <url>
-    <loc>http://keishasperkins.com/tags/games/</loc>
+    <loc>https://keishasperkins.com/tags/conference/</loc>
     <lastmod>2018-02-24T14:07:29-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://keishasperkins.com/tags/html-canvas/</loc>
+    <loc>https://keishasperkins.com/page/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>https://keishasperkins.com/tags/games/</loc>
     <lastmod>2018-02-24T14:07:29-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://keishasperkins.com/tags/html5/</loc>
+    <loc>https://keishasperkins.com/tags/html-canvas/</loc>
     <lastmod>2018-02-24T14:07:29-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://keishasperkins.com/talks/itgirls/</loc>
-  </url>
-  
-  <url>
-    <loc>http://keishasperkins.com/tags/javascript/</loc>
+    <loc>https://keishasperkins.com/tags/html5/</loc>
     <lastmod>2018-02-24T14:07:29-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://keishasperkins.com/</loc>
+    <loc>https://keishasperkins.com/talks/itgirls/</loc>
+  </url>
+  
+  <url>
+    <loc>https://keishasperkins.com/tags/javascript/</loc>
     <lastmod>2018-02-24T14:07:29-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://keishasperkins.com/tags/p5.js/</loc>
+    <loc>https://keishasperkins.com/</loc>
     <lastmod>2018-02-24T14:07:29-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://keishasperkins.com/page/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://keishasperkins.com/page/resume/</loc>
-  </url>
-  
-  <url>
-    <loc>http://keishasperkins.com/tags/</loc>
+    <loc>https://keishasperkins.com/tags/p5.js/</loc>
     <lastmod>2018-02-24T14:07:29-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://keishasperkins.com/talks/</loc>
+    <loc>https://keishasperkins.com/page/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://keishasperkins.com/page/thank-you/</loc>
+    <loc>https://keishasperkins.com/page/resume/</loc>
+  </url>
+  
+  <url>
+    <loc>https://keishasperkins.com/tags/</loc>
+    <lastmod>2018-02-24T14:07:29-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://keishasperkins.com/talks/</loc>
+  </url>
+  
+  <url>
+    <loc>https://keishasperkins.com/page/thank-you/</loc>
   </url>
   
 </urlset>
