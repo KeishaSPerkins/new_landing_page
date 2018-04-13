@@ -1,6 +1,7 @@
 ---
 title: "About"
 what: about
+nodisqus: true
 ---
 
 Keisha&nbsp;S Perkins is a self-taught designer and developer from Baton&nbsp;Rouge, Louisiana. She works for the library by day and codes by night. 

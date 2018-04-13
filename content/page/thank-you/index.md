@@ -1,5 +1,6 @@
 ---
 title: "Thank You!"
+nodisqus: true
 ---
 	
 

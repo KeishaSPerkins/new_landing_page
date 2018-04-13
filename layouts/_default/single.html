@@ -15,8 +15,10 @@
         {{ partial "page-content.html" . }}
 
     </article>
+    {{ if not .Params.nodisqus }}
+    <br><br><hr>
     {{ template "_internal/disqus.html" . }}
-
+{{ end }}
 </div>
 
 {{ partial "footer.html" . }}

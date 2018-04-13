@@ -1,6 +1,7 @@
 ---
 title: "Contact"
 what: contact
+nodisqus: true
 ---
 
 <p>If you'd like to contact me, feel free to fill out the form.</p>
