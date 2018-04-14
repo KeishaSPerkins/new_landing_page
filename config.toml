@@ -6,11 +6,9 @@ googleAnalytics = "UA-88471731-1"
 publishDir = "docs"
 disqusShortname = "keishasperkins"
 
-
 [Params]
 	headline = "Keisha S Perkins"
 	description = "is a designer and a developer"
 
 [Author]
-
     name = "Keisha S Perkins"
