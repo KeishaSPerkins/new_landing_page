@@ -12,28 +12,28 @@
 <ol class="post-list">
 	{{ range $index, $element := .Sections }}
 	<li class="conference">
-		<h2>
-			{{ .Title }}
-		</h2>
-		<p> 
-			{{ .Content}}
-		</p>
-		<ul class="list-of-conference-assets">
-			{{ range .Data.Pages }}
-			<li class="conference-asset">
-				{{ if isset .Params "pointer" }}
-				<a class="button button-square" href="{{ .Params.pointer }}">
-					{{ .Params.what}}
-				</a> 
-				{{ end }}
-				{{ if not (isset .Params "pointer") }}
-				<a class="button button-square" href="{{ .Permalink }}">
-					{{ .Params.what}}
-				</a> 
-				{{ end }}
-			</li>
-			{{ end }}
-		</ul>
+				<h2>
+					{{ .Title }}
+				</h2>
+				<p> 
+					{{ .Content}}
+				</p>
+				<ul class="list-of-conference-assets">
+					{{ range .Data.Pages }}
+					<li class="conference-asset">
+						{{ if isset .Params "pointer" }}
+						<a class="button button-square" href="{{ .Params.pointer }}">
+							{{ .Params.what}}
+						</a> 
+						{{ end }}
+						{{ if not (isset .Params "pointer") }}
+						<a class="button button-square" href="{{ .Permalink }}">
+							{{ .Params.what}}
+						</a> 
+						{{ end }}
+					</li>
+					{{ end }}
+				</ul>}}
 	{{ end }}
 	</li>
 </ol>

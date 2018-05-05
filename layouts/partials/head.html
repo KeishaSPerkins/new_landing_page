@@ -9,6 +9,9 @@
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/monokai-sublime.min.css">
 
   <link rel="stylesheet" type="text/css" href='{{ "/css/style.css" | absURL }}'>
+  {{ if isset .Params "extra" }}
+  <link rel="stylesheet" type="text/css" href="{{ .Params.extra }}">
+  {{ end }}
 {{ partial "favicon.html" . }}
 {{ partial "analytics.html" . }}
 	{{ if isset .Params "title"}}

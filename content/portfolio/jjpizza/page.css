@@ -1,0 +1,50 @@
+.portfolio-wrapper{
+	display: grid;
+	grid-template-columns: 1fr;
+}
+svg{
+	width: 100%;
+	height: auto;
+}
+.logo-list{
+	background: #efefef;
+}
+.logo-list, .little-logo-list{
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+	list-style: none;
+	padding: 0;
+	margin: 0;
+}
+.little-logo-list{
+	grid-template-columns: 1fr 1fr 1fr;
+}
+
+.little-logo-list li:nth-child(even){
+	background: #eee;
+}
+.logo-list .logo-item{
+	padding: 30px 20px;
+}
+.logo-item.reverse{
+	background: #df4337;
+}
+.font-choice path{
+	width: 100%;
+}
+.mockup-image{
+	margin: 0 auto;
+}
+#logo-symbols{
+	display: none;
+}
+
+/*-----------------------------
+Media Queries
+_____________________________*/
+
+@media only screen and (max-width: 600px){
+	.logo-list, .little-logo-list{
+		grid-template-columns: 1fr;
+	}
+}

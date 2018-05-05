@@ -646,7 +646,50 @@ ul li:last-of-type,ol li:last-of-type,.post-content:last-child {
 .home-wrapper .site-header .container a:hover {
   color: #222;
 }
-
+.portfolio-list{
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+	list-style: none;
+	padding: 0;
+	grid-row-gap: 10px;
+	grid-column-gap: 10px;
+}
+.portfolio-item{
+	background: #eee;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	margin: 0;
+	padding: 0 0 10px 0;
+	overflow: hidden;
+}
+a .portfolio-image{
+	width: 100%;
+	height: auto;
+	margin: 0 0 20px 0;
+}
+a .portfolio-what{
+	font-size: 1.1rem;
+	font-weight: 500;
+	margin: 5px;
+	color: #222;
+	text-align: center;
+	padding:0 0 2px;	
+	border-bottom:1px dotted transparent;
+}
+a .portfolio-who{
+	font-size: 1rem;
+	font-weight: 400;
+	margin: 5px;
+	color: #222;
+	text-align: center;
+	padding:0 0 2px;	
+	border-bottom:1px dotted transparent;
+}
+a:hover .portfolio-who, a:hover .portfolio-what{
+	color: #d06;
+}
 /*---------------------------
 Media Queries
 ---------------------------*/

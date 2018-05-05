@@ -63,6 +63,33 @@ Your Name Your Email Message  Submit  </description>
     </item>
     
     <item>
+      <title>Dummy Title</title>
+      <link>https://keishasperkins.com/portfolio/dummy2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://keishasperkins.com/portfolio/dummy2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dummy Title</title>
+      <link>https://keishasperkins.com/portfolio/dummy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://keishasperkins.com/portfolio/dummy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Logo Design for JJ Pizza (Thirty Logos)</title>
+      <link>https://keishasperkins.com/portfolio/jjpizza/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://keishasperkins.com/portfolio/jjpizza/</guid>
+      <description>I created this logo as a #ThirtyLogos exercise. It was pretty fun to try to quickly come up with a logo a day. I wanted to focus on clean, simple lines while also conveying the product being sold.</description>
+    </item>
+    
+    <item>
       <title>Resume</title>
       <link>https://keishasperkins.com/page/resume/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

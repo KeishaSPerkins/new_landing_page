@@ -75,6 +75,7 @@ nodisqus: true
 	<li class="skill">HTML</li>
 	<li class="skill">CSS</li>
 	<li class="skill">JavaScript</li>
+	<li class="skill">Ruby/Rails</li>
 	<li class="skill">Git/GitHub</li>
 	<li class="skill">Adobe Photoshop</li>
 	<li class="skill">Adobe InDesign</li>

@@ -1,0 +1,28 @@
+{{ partial "head.html" . }}
+<header class="site-header">
+<div class="container">
+	{{ partial "site-nav.html" . }}
+</div>
+</header>
+<div class="container">
+<article class="post-container">
+	<div class="post-header">
+		<h1 class="post-title"><small>Portfolio For</small><br>Keisha S Perkins</h1>
+	</div>
+<ol class="portfolio-list">
+	{{ range .Data.Pages }}
+	
+	<li class="portfolio-item">
+		<a href="{{ .Permalink }}">
+			<img class="portfolio-image" src="{{ .Params.imgsrc }}" alt="{{ .Params.imgalt }}" title="{{ .Params.imgalt }}">
+		</a>
+		<a href="{{ .Permalink }}">
+			<h1 class="portfolio-what">{{ .Params.what }}</h1>
+			<h2 class="portfolio-who">{{ .Params.who }}</h2>
+		</a>
+	</li>
+	{{ end }}
+</ol>
+</article>
+</div>
+{{ partial "footer.html" . }}
