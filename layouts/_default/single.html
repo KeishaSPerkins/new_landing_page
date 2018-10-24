@@ -10,9 +10,11 @@
 <div class="container">
     <article class="post-container">
 
-
         {{ partial "page-header.html" . }}
         {{ partial "page-content.html" . }}
+
+        
+   
 {{ if not .Params.nodisqus }}
     <br><br><hr>
     {{ template "_internal/disqus.html" . }}

@@ -66,6 +66,18 @@
   </url>
   
   <url>
+    <loc>https://keishasperkins.com/talks/onefiletransformedworkflow/</loc>
+  </url>
+  
+  <url>
+    <loc>https://keishasperkins.com/talks/onefiletransformedworkflow/one-psd-slides/</loc>
+  </url>
+  
+  <url>
+    <loc>https://keishasperkins.com/talks/onefiletransformedworkflow/one-psd-blog-post/</loc>
+  </url>
+  
+  <url>
     <loc>https://keishasperkins.com/tags/html-canvas/</loc>
     <lastmod>2018-02-24T14:07:29-05:00</lastmod>
     <priority>0</priority>
@@ -129,6 +141,14 @@
   
   <url>
     <loc>https://keishasperkins.com/page/thank-you/</loc>
+  </url>
+  
+  <url>
+    <loc>https://keishasperkins.com/talks/upandrunningwithhugo/</loc>
+  </url>
+  
+  <url>
+    <loc>https://keishasperkins.com/talks/upandrunningwithhugo/slides/</loc>
   </url>
   
 </urlset>

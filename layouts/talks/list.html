@@ -22,13 +22,15 @@
 					{{ range .Data.Pages }}
 					<li class="conference-asset">
 						{{ if isset .Params "pointer" }}
-						<a class="button button-square" href="{{ .Params.pointer }}">
+						<a class="button button-square" {{ if eq .Params.external true }} target="_blank" {{end}} href="{{ .Params.pointer }}">
 							{{ .Params.what}}
+							{{ if eq .Params.external true }} &#x1F5D7; {{end}}
 						</a> 
 						{{ end }}
 						{{ if not (isset .Params "pointer") }}
-						<a class="button button-square" href="{{ .Permalink }}">
+						<a class="button button-square" {{ if eq .Params.external true }} target="_blank" {{end}} href="{{ .Permalink }}">
 							{{ .Params.what}}
+							{{ if eq .Params.external true }} &#x1F5D7; {{end}}
 						</a> 
 						{{ end }}
 					</li>
