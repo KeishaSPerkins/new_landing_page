@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portfolios on Keisha S Perkins</title>
+    <link>https://keishasperkins.com/portfolio/</link>
+    <description>Recent content in Portfolios on Keisha S Perkins</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Keisha S Perkins</copyright>
+    
+	<atom:link href="https://keishasperkins.com/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Dummy Title</title>
+      <link>https://keishasperkins.com/portfolio/dummy2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://keishasperkins.com/portfolio/dummy2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dummy Title</title>
+      <link>https://keishasperkins.com/portfolio/dummy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://keishasperkins.com/portfolio/dummy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Logo Design for JJ Pizza (Thirty Logos)</title>
+      <link>https://keishasperkins.com/portfolio/jjpizza/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://keishasperkins.com/portfolio/jjpizza/</guid>
+      <description>I created this logo as a #ThirtyLogos exercise. It was pretty fun to try to quickly come up with a logo a day. I wanted to focus on clean, simple lines while also conveying the product being sold.</description>
+    </item>
+    
+  </channel>
+</rss>
